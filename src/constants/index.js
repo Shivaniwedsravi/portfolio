@@ -44,7 +44,7 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Full-Stack Developer",
+    title: "Power BI",
     icon: web,
   },
   {
@@ -52,7 +52,7 @@ const services = [
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Video Editor",
     icon: backend,
   },
   {
@@ -131,7 +131,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full-Stack Developer",
+    title: "Power BI",
     company_name: "Tekisky",
     icon: tekisky,
     iconBg: "#383E56",
